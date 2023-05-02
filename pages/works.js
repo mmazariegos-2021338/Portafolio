@@ -5,7 +5,7 @@ import { WorkGridItem } from '../components/grid-item'
 
 import thumbComs from '../public/images/works/76.jpeg'
 import thumbadulting101 from '../public/images/works/61.jpeg'
-import thumbFakeFace from '../public/images/works/14 (1).jpeg'
+import thumbFakeFace from '../public/images/works/14.jpeg'
 import thumbHandGesture from '../public/images/works/13495.jpeg' 
 
 
